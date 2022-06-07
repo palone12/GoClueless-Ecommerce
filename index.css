@@ -36,6 +36,7 @@ a{
 .second_products{
     display: flex;
     justify-content: space-evenly;
+    width: 100%;
 }
 .second_head{
     text-align: center;
@@ -45,4 +46,5 @@ a{
 .third_container{
     display: flex;
     justify-content: space-evenly;
+    width: 100%;
 }

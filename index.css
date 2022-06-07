@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+}
+header{
+     background-color: black;
+     display: flex;
+     align-items: center;
+     position: sticky;
+     top: 0;
+    
+     
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    font-size: larger;
+}
+.logo{
+    height: 50px;
+    width: 80px;
+}
+.user{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+}
+.Signup{
+    color: aqua;
+    border: 2px red solid;
+    background-color: transparent;
+}
+.second_products{
+    display: flex;
+    justify-content: space-evenly;
+}
+.second_head{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.third_container{
+    display: flex;
+    justify-content: space-evenly;
+}
